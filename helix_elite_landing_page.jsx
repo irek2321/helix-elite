@@ -1,3 +1,4 @@
+import FenixLogo from './fenix_logo.png';
 export default function FENIXEliteLanding() {
   const pillars = [
     {
@@ -25,19 +26,16 @@ export default function FENIXEliteLanding() {
       <section className="min-h-screen flex items-center px-6 py-20">
         <div className="max-w-6xl mx-auto w-full grid lg:grid-cols-[1.1fr_0.9fr] gap-16 items-center">
           <div>
+                        <img src={FenixLogo} alt="Fenix Elite logo" className="w-32 h-auto mb-8 mx-auto md:mx-0" />
             <p className="uppercase tracking-[0.45em] text-xs text-neutral-500 mb-8">
               Discipline • Body • Mind
             </p>
-
             <h1 className="text-6xl md:text-8xl font-black leading-[0.9] tracking-tight mb-8">
- 
               FENIX
               <br />
               <span className="text-neutral-400">ELITE</span>
             </h1>
-
-            <p className="text-xl md:text-2xl text-neutral-300 leading-relaxed max-w-2xl mb-10">
-              Program online dla osób, które chcą zbudować trening, odżywianie
+  Program online dla osób, które chcą zbudować trening, odżywianie
               i dyscyplinę w realnym życiu. Bez pustej motywacji. Bez kopiowania
               planów z internetu.
             </p>
