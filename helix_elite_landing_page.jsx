@@ -30,6 +30,7 @@ export default function FENIXEliteLanding() {
             </p>
 
             <h1 className="text-6xl md:text-8xl font-black leading-[0.9] tracking-tight mb-8">
+ 
               FENIX
               <br />
               <span className="text-neutral-400">ELITE</span>
@@ -49,12 +50,7 @@ export default function FENIXEliteLanding() {
                 Umów rozmowę
               </a>
 
-              <a
-                href="mailto:hello@FENIX-elite.com"
-                className="inline-flex justify-center rounded-full border border-white/15 px-7 py-4 text-sm font-bold text-white transition hover:bg-white/10"
-              >
-                hello@FENIX-elite.com
-              </a>
+       
             </div>
           </div>
 
