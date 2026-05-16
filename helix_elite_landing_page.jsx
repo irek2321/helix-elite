@@ -32,10 +32,9 @@ export default function FENIXEliteLanding() {
             </p>
             <h1 className="text-6xl md:text-8xl font-black leading-[0.9] tracking-tight mb-8">
               FENIX
-              <br />
-              <span className="text-neutral-400">ELITE</span>
+              <br />           <span className="text-neutral-400">ELITE</span>
             </h1>
-  <p <p className="text-xl md:text-2xl text-neutral-300 leading-relaxed max-w-2xl mb-10">Program online dla osób, które chcą zbudować trening, odżywianie
+  <pp className="text-xl md:text-2xl text-neutral-300 leading-relaxed max-w-2xl mb-10">Program online dla osób, które chcą zbudować trening, odżywianie
               i dyscyplinę w realnym życiu. Bez pustej motywacji. Bez kopiowania
               planów z internetu.
             </p>
