@@ -43,17 +43,17 @@ export default function HelixEliteLanding() {
 
             <div className="flex flex-col sm:flex-row gap-4">
               <a
-                href="mailto:kontakt@helixelite.eu?subject=Rozmowa%20wprowadzaj%C4%85ca%20Helix%20Elite"
+                href="mailto:hello@helix-elite.com?subject=Rozmowa%20wprowadzaj%C4%85ca%20Helix%20Elite"
                 className="inline-flex justify-center rounded-full bg-white px-7 py-4 text-sm font-bold text-black transition hover:bg-neutral-200"
               >
                 Umów rozmowę
               </a>
 
               <a
-                href="mailto:kontakt@helixelite.eu"
+                href="mailto:hello@helix-elite.com"
                 className="inline-flex justify-center rounded-full border border-white/15 px-7 py-4 text-sm font-bold text-white transition hover:bg-white/10"
               >
-                kontakt@helixelite.eu
+                hello@helix-elite.com
               </a>
             </div>
           </div>
@@ -105,7 +105,7 @@ export default function HelixEliteLanding() {
           </p>
 
           <a
-            href="mailto:kontakt@helixelite.eu?subject=Chc%C4%99%20rozpocz%C4%85%C4%87%20Helix%20Elite&body=Dzie%C5%84%20dobry%2C%0A%0AChc%C4%99%20um%C3%B3wi%C4%87%20rozmow%C4%99%20wprowadzaj%C4%85c%C4%85%20do%20programu%20Helix%20Elite.%0A%0APozdrawiam%2C"
+            href="mailto:hello@helix-elite.com?subject=Chc%C4%99%20rozpocz%C4%85%C4%87%20Helix%20Elite&body=Dzie%C5%84%20dobry%2C%0A%0AChc%C4%99%20um%C3%B3wi%C4%87%20rozmow%C4%99%20wprowadzaj%C4%85c%C4%85%20do%20programu%20Helix%20Elite.%0A%0APozdrawiam%2C"
             className="inline-flex rounded-full bg-white px-8 py-4 text-sm font-bold text-black transition hover:bg-neutral-200"
           >
             Napisz do nas
@@ -117,8 +117,8 @@ export default function HelixEliteLanding() {
         <div className="max-w-6xl mx-auto flex flex-col md:flex-row gap-4 md:items-center md:justify-between text-sm text-neutral-500">
           <p>© 2026 Helix Elite</p>
           <div className="flex flex-wrap gap-5">
-            <a href="mailto:kontakt@helixelite.eu" className="hover:text-white transition">
-              kontakt@helixelite.eu
+            <a href="mailto:hello@helix-elite.com" className="hover:text-white transition">
+              hello@helix-elite.com
             </a>
             <a href="#" className="hover:text-white transition">
               Regulamin
