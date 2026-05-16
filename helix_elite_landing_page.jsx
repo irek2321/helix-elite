@@ -1,4 +1,4 @@
-export default function HelixEliteLanding() {
+export default function FENIXEliteLanding() {
   const pillars = [
     {
       title: 'Trening',
@@ -30,7 +30,7 @@ export default function HelixEliteLanding() {
             </p>
 
             <h1 className="text-6xl md:text-8xl font-black leading-[0.9] tracking-tight mb-8">
-              HELIX
+              FENIX
               <br />
               <span className="text-neutral-400">ELITE</span>
             </h1>
@@ -43,17 +43,17 @@ export default function HelixEliteLanding() {
 
             <div className="flex flex-col sm:flex-row gap-4">
               <a
-                href="mailto:hello@helix-elite.com?subject=Rozmowa%20wprowadzaj%C4%85ca%20Helix%20Elite"
+                href="mailto:hello@FENIX-elite.com?subject=Rozmowa%20wprowadzaj%C4%85ca%20FENIX%20Elite"
                 className="inline-flex justify-center rounded-full bg-white px-7 py-4 text-sm font-bold text-black transition hover:bg-neutral-200"
               >
                 Umów rozmowę
               </a>
 
               <a
-                href="mailto:hello@helix-elite.com"
+                href="mailto:hello@FENIX-elite.com"
                 className="inline-flex justify-center rounded-full border border-white/15 px-7 py-4 text-sm font-bold text-white transition hover:bg-white/10"
               >
-                hello@helix-elite.com
+                hello@FENIX-elite.com
               </a>
             </div>
           </div>
@@ -100,12 +100,12 @@ export default function HelixEliteLanding() {
 
           <p className="text-lg md:text-xl text-neutral-300 leading-relaxed mb-10">
             Jeśli pomijasz posiłki, tracisz regularność, odkładasz trening albo
-            działasz tylko wtedy, gdy masz motywację, Helix Elite zamienia chaos
+            działasz tylko wtedy, gdy masz motywację, FENIX Elite zamienia chaos
             w prosty system codziennych działań.
           </p>
 
           <a
-            href="mailto:hello@helix-elite.com?subject=Chc%C4%99%20rozpocz%C4%85%C4%87%20Helix%20Elite&body=Dzie%C5%84%20dobry%2C%0A%0AChc%C4%99%20um%C3%B3wi%C4%87%20rozmow%C4%99%20wprowadzaj%C4%85c%C4%85%20do%20programu%20Helix%20Elite.%0A%0APozdrawiam%2C"
+            href="mailto:hello@FENIX-elite.com?subject=Chc%C4%99%20rozpocz%C4%85%C4%87%20FENIX%20Elite&body=Dzie%C5%84%20dobry%2C%0A%0AChc%C4%99%20um%C3%B3wi%C4%87%20rozmow%C4%99%20wprowadzaj%C4%85c%C4%85%20do%20programu%20FENIX%20Elite.%0A%0APozdrawiam%2C"
             className="inline-flex rounded-full bg-white px-8 py-4 text-sm font-bold text-black transition hover:bg-neutral-200"
           >
             Napisz do nas
@@ -115,10 +115,10 @@ export default function HelixEliteLanding() {
 
       <footer className="border-t border-white/10 px-6 py-8">
         <div className="max-w-6xl mx-auto flex flex-col md:flex-row gap-4 md:items-center md:justify-between text-sm text-neutral-500">
-          <p>© 2026 Helix Elite</p>
+          <p>© 2026 FENIX Elite</p>
           <div className="flex flex-wrap gap-5">
-            <a href="mailto:hello@helix-elite.com" className="hover:text-white transition">
-              hello@helix-elite.com
+            <a href="mailto:hello@FENIX-elite.com" className="hover:text-white transition">
+              hello@FENIX-elite.com
             </a>
             <a href="#" className="hover:text-white transition">
               Regulamin
